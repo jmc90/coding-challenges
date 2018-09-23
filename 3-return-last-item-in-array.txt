@@ -1,0 +1,16 @@
+/*Return the Last Item in an Array
+
+Create a function that accepts an array and returns the last item in the array.
+
+Examples
+
+[1, 2, 3] ➞ 3
+
+['cat', 'dog', 'duck'] ➞ 'duck'
+
+[true, false, true] ➞ true*/
+
+function getLastItem(arr) {
+	var last = arr.length - 1;
+	return arr[last];
+}
