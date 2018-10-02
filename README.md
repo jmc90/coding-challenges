@@ -1,3 +1,3 @@
 # coding-challenges
 
-Coding challenges from Edabit starting from very easy and working torwards very hard as I progress!
+Coding challenges from Edabit that progressively increase in difficulty from very easy to expert!
