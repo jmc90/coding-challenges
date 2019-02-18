@@ -9,3 +9,7 @@
 // countOnes(999) ➞ 8
 // Notes
 // The input will always be a valid integer (number).
+
+function countOnes(i) {
+  return i.toString(2).split('').filter(x => x === '1').length
+}
